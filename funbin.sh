@@ -1,3 +1,7 @@
+#!/bin/bash
+
+#@author: Avishek Dutta, avdutta@ucsd.edu
+
 #defining sample name
 
 sample=$1
