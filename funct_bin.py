@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 
+"""
+@author: Avishek Dutta, avdutta@ucsd.edu
+@requires: python3, pandas
+"""
+
 import pandas as pd
 import os
 
