@@ -1,4 +1,4 @@
-# FunBin - Functional Binning
+# FunBin - Functional Binning (under development)
 
 FunBin is a tool for separating and allocating functions to the bins or Metagenome-assembled genomes (MAGs) based on annotation of assembled contigs. This tool presently works with the output of [metaspades](https://github.com/ablab/spades), [metabat2](https://bitbucket.org/berkeleylab/metabat/src/master/), and [emapper](https://github.com/eggnogdb/eggnog-mapper). FunBin is compatible with the [iMAGine](https://github.com/avishekdutta14/iMAGine) tool.
 
