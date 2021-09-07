@@ -13,7 +13,7 @@ chmod a+x *.py
 
 ## For running FunBin
 
-##The advantages of FunBin are as follows
+## The advantages of FunBin are as follows
 
 1. Reduces computational time
 2. Maintains ubiquitous annotations throughout the pipeline
@@ -21,7 +21,7 @@ chmod a+x *.py
 4. Gives a better perspective of fate of genes among bins in metagenomes
 5. Better start for comparative genomics and metagenomics
 
-##Limitations
+## Limitations
 
 1. The present version can only be used for a particular workflow. But, the codes can be modified and used with the outputs from other tools.
 2. For certain annotation pipelines, annotating MAGs separately might result in a slightly better result.
