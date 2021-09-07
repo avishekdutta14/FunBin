@@ -1,3 +1,7 @@
+#!/bin/bash
+
+#@author: Avishek Dutta, avdutta@ucsd.edu
+
 bin=$1
 
 #Extracting header of fasta sequence
