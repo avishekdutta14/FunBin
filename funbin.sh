@@ -2,7 +2,7 @@
 
 # author: Avishek Dutta, avdutta@ucsd.edu
 
-#defining sample name
+# defining sample name
 
 sample=$1
 output=$2
