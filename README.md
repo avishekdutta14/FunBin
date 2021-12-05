@@ -34,7 +34,7 @@ A Folder with the user-input folder name will be generated with the following ou
 
 1. contig_fate.txt - a file containing the fate of contigs in the respective bins
 2. sample_name.functional_bin.csv - this file will be the modifications of the emapper.annotations file with an added column mentioning the fate of each amino acid sequence in different bins. This file can give the user an overview of the functions segregation across different bins.
-3. bin_name.annotation_fb.csv - An annotation file for each bin will be generated. For e.g., if there are 50 bins, there will be 50 annotation files that will be generated for each bin.
+3. bin_name.annotation_fb.csv - An annotation file for each bin will be generated. For e.g., if there are 50 bins, there will be 50 annotation files that will be generated (one for each bin).
 
 ## How it works?
 
